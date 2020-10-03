@@ -1,0 +1,6 @@
+E:\P509\C#\RefOutStringBuilder\RefOutStringBuilder\bin\Debug\RefOutStringBuilder.exe.config
+E:\P509\C#\RefOutStringBuilder\RefOutStringBuilder\bin\Debug\RefOutStringBuilder.exe
+E:\P509\C#\RefOutStringBuilder\RefOutStringBuilder\bin\Debug\RefOutStringBuilder.pdb
+E:\P509\C#\RefOutStringBuilder\RefOutStringBuilder\obj\Debug\RefOutStringBuilder.csprojAssemblyReference.cache
+E:\P509\C#\RefOutStringBuilder\RefOutStringBuilder\obj\Debug\RefOutStringBuilder.exe
+E:\P509\C#\RefOutStringBuilder\RefOutStringBuilder\obj\Debug\RefOutStringBuilder.pdb
